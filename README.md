@@ -111,9 +111,15 @@ The application supports:
 - Uploading text files for encryption/decryption
 - Downloading results as text files
 
+
+## Collaborator
+
+[Mohamed Khiarey](https://github.com/khairy-nio)
+
+
 ## Contributing
 
-Contributions are welcome! 
+Contributions are welcome!
 
 -------------
 #### Feel free to reach out with feedback or collaboration ideas!
